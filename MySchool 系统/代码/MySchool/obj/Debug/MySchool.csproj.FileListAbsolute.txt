@@ -1,0 +1,131 @@
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\bin\Debug\MySchool.exe
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.exe
+E:\work\ppt\s1-winform\MySchool\MySchool\MySchool\MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\work\ppt\s1-winform\MySchool\MySchool\bin\Debug\MySchool.exe
+E:\work\ppt\s1-winform\MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.exe
+E:\work\ppt\s1-winform\MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\bin\Debug\MySchool.exe
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\ResolveAssemblyReference.cache
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.exe
+E:\work\ppt\s1-winform\topic06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\bin\Debug\MySchool.exe
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\bin\Debug\MySchool.pdb
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\ResolveAssemblyReference.cache
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.exe
+E:\work\课件开发\ACCP6.0\WinForms+ADO.NET\Chapter06\学员练习参考答案\练习4：整合贯穿案例MySchool\MySchool\obj\Debug\MySchool.pdb
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\bin\Debug\MySchool.exe
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\bin\Debug\MySchool.pdb
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\ResolveAssemblyReference.cache
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\GenerateResource-ResGen.read.5.tlog
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\GenerateResource.read.1.tlog
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.exe
+E:\公司资料\2011年2月份工作\5.WinForms+ADO.NET\Chapter01\教学演示示例\贯穿案例：MySchool 系统\代码\MySchool\obj\Debug\MySchool.pdb
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\bin\Debug\MySchool.exe
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\bin\Debug\MySchool.pdb
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.csprojResolveAssemblyReference.cache
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmAbout.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmAddResult.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmEditStudent.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.FrmAdminMain.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudentByName.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSearchStudenByGrade.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmStudentList.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmSubjectList.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.FrmLogin.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.AdminForm.FrmModifyPwd.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.Properties.Resources.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmOwnInfo.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmReviewResult.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.StudentForm.FrmStudentMain.resources
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.csproj.GenerateResource.Cache
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.exe
+E:\GitHub\贯穿案例：MySchool 系统\MySchool 系统\代码\MySchool\obj\Debug\MySchool.pdb

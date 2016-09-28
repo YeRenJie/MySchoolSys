@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6B07BA9D-2ECC-4ABC-8C52-52F3B6911A5E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySchool</RootNamespace>
+    <AssemblyName>MySchool</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminForm\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmAddResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmAddResult.Designer.cs">
+      <DependentUpon>FrmAddResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmEditStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmEditStudent.Designer.cs">
+      <DependentUpon>FrmEditStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmSearchStudentByName.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmSearchStudentByName.Designer.cs">
+      <DependentUpon>FrmSearchStudentByName.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmSearchStudenByGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmSearchStudenByGrade.Designer.cs">
+      <DependentUpon>FrmSearchStudenByGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmStudentList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmStudentList.Designer.cs">
+      <DependentUpon>FrmStudentList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminForm\FrmSubjectList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmSubjectList.Designer.cs">
+      <DependentUpon>FrmSubjectList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmModifyPwd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmModifyPwd.Designer.cs">
+      <DependentUpon>FrmModifyPwd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="AdminForm\FrmAdminMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminForm\FrmAdminMain.Designer.cs">
+      <DependentUpon>FrmAdminMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gender.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdminForm\FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmAddResult.resx">
+      <DependentUpon>FrmAddResult.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmEditStudent.resx">
+      <DependentUpon>FrmEditStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmAdminMain.resx">
+      <DependentUpon>FrmAdminMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmSearchStudentByName.resx">
+      <DependentUpon>FrmSearchStudentByName.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmSearchStudenByGrade.resx">
+      <DependentUpon>FrmSearchStudenByGrade.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmStudentList.resx">
+      <DependentUpon>FrmStudentList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminForm\FrmSubjectList.resx">
+      <DependentUpon>FrmSubjectList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmModifyPwd.resx">
+      <DependentUpon>FrmModifyPwd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentForm\FrmOwnInfo.resx">
+      <DependentUpon>FrmOwnInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentForm\FrmReviewResult.resx">
+      <DependentUpon>FrmReviewResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentForm\FrmStudentMain.resx">
+      <DependentUpon>FrmStudentMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StudentForm\FrmOwnInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentForm\FrmOwnInfo.Designer.cs">
+      <DependentUpon>FrmOwnInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentForm\FrmReviewResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentForm\FrmReviewResult.Designer.cs">
+      <DependentUpon>FrmReviewResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentForm\FrmStudentMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentForm\FrmStudentMain.Designer.cs">
+      <DependentUpon>FrmStudentMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res\image\aboug_bj.jpg" />
+    <Content Include="res\image\button.png" />
+    <Content Include="res\image\girl_1.gif" />
+    <Content Include="res\image\girl_2.gif" />
+    <Content Include="res\image\girl_3.gif" />
+    <Content Include="res\image\girl_4.gif" />
+    <Content Include="res\image\Icon.ico" />
+    <Content Include="res\image\login_bj.jpg" />
+    <Content Include="res\image\tsbtn1.png" />
+    <Content Include="res\image\tsbtn2.png" />
+    <Content Include="res\image\tsbtn3.png" />
+    <Content Include="res\image\tsbtn4.png" />
+    <Content Include="res\image\tsbtn5.png" />
+    <Content Include="System.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
